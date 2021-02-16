@@ -54,7 +54,7 @@ const Footer = () => {
 							</li>
 							<li className="nav-item">
 								<a href="#/" className="nav-link">
-									Restaurants near me
+									Saloon near me
 								</a>
 							</li>
 						</ul>
@@ -62,7 +62,7 @@ const Footer = () => {
 				</div>
 				<div className="row secondary">
 					<div className="col-lg-8">
-						<p>Copyright &copy; 2020 | Nusrat Jahan</p>
+						<p>Copyright &copy; 2020 | Seema Yousuf Zai</p>
 					</div>
 					<div className="col-lg">
 						<ul className="nav">

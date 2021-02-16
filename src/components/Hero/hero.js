@@ -10,7 +10,7 @@ const Hero = () => {
 			<div className="container text-center hero-content">
 				<div className="row justify-content-center">
 					<div className="col-md-8">
-						<h1>Best food waiting for your belly</h1>
+						<h1>Best make up items</h1>
 
 						<form className="row justify-content-center mt-4" onSubmit={handleForm}>
 							<div className="form-group col-md-8">

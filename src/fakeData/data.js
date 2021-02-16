@@ -19,53 +19,53 @@ import dinner6 from '../Image/Dinner/dinner6.png';
 
 const foods = [{
 		id: 0,
-		type: 'Breakfast',
-		slug: 'breakfast',
+		type: 'Foundation',
+		slug: 'foundation',
 		items: [{
 				id: 0,
-				name: 'Bagel and cream cheese',
-				title: 'How we dream about our future',
-				info: 'Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.',
+				name: 'FIT Me',
+				title: 'All Skin Shades',
+				info: 'foundation provides your skin glowing looks.',
 				price: 6.99,
 				img: breakfast1,
 			},
 			{
 				id: 1,
-				name: 'Breakfast sandwich',
-				title: 'How we dream about our future',
-				info: 'Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.',
+				name: 'MAC',
+				title: 'ALL Skin Shades',
+				info: 'foundation provides your skin glowing looks.',
 				price: 9.99,
 				img: breakfast2
 			},
 			{
 				id: 2,
-				name: 'Baked chicken',
-				title: 'How we dream about our future',
-				info: 'Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.',
+				name: 'Face finity',
+				title: 'ALL Skin Shades',
+				info: 'foundation provides your skin glowing looks .',
 				price: 10.99,
 				img: breakfast3
 			},
 			{
 				id: 3,
-				name: 'Toast croissant fried egg',
-				title: 'How we dream about our future',
-				info: 'Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.',
+				name: 'MATTE',
+				title: 'ALL Skin Shades',
+				info: ' .',
 				price: 8.99,
 				img: breakfast4
 			},
 			{
 				id: 4,
-				name: 'Eggs benedict',
-				title: 'How we dream about our future',
-				info: 'Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.',
+				name: '',
+				title: 'ALL Skin Shades',
+				info: 'e.',
 				price: 19.99,
 				img: breakfast5
 			},
 			{
 				id: 5,
-				name: 'Full breakfast fried egg toast bunch',
-				title: 'How we dream about our future',
-				info: 'Food is any substance consumed to provide nutritional support for an organism. Food is usually of plant or animal origin, and contains essential nutrients, such as carbohydrates, fats, proteins, vitamins, or minerals.',
+				name: '',
+				title: 'ALL Skin Shades',
+				info: '.',
 				price: 3.99,
 				img: breakfast6
 			}
@@ -73,8 +73,8 @@ const foods = [{
 	},
 	{
 		id: 1,
-		type: 'Lunch',
-		slug: 'lunch',
+		type: 'Lipsticks',
+		slug: 'lipsticks',
 		items: [{
 				id: 0,
 				name: 'Healthy meal plan',
@@ -127,8 +127,8 @@ const foods = [{
 	},
 	{
 		id: 2,
-		type: 'Dinner',
-		slug: 'dinner',
+		type: 'Brushes',
+		slug: 'brushes',
 		items: [{
 				id: 0,
 				name: 'salmon with grapefruit and lentil salad',

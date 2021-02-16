@@ -12,9 +12,9 @@ const Foods = () => {
 	const cartFoods= useSelector(state=>state.cart)
 	const [ item, setItems ] = useState({});
 	const [ showItems, setShowItems ] = useState({
-		type     : 'Breakfast',
+		type     : 'Foundation',
 		property : food[0],
-		slug     : 'breakfast'
+		slug     : 'foundation'
 	});
 
 	useEffect(
@@ -45,14 +45,14 @@ const Foods = () => {
 	return (
 		<BtnStyle className="container">
 			<div className={ `btn-type text-center active-${showItems.property.id}`}>
-				<button onClick={handleClick} className="btn mx-3 breakfast">
-					Breakfast
+				<button onClick={handleClick} className="btn mx-3 ">
+					Foundation
 				</button>
-				<button onClick={handleClick} className="btn mx-3 lunch">
-					Lunch
+				<button onClick={handleClick} className="btn mx-3 lipsticks">
+					Lipsticks
 				</button>
-				<button onClick={handleClick} className="btn mx-3 dinner">
-					Dinner
+				<button onClick={handleClick} className="btn mx-3 brushes">
+					Brushes
 				</button>
 			</div>
 			<div className={`row active-item-${showItems.property.id}`}>
